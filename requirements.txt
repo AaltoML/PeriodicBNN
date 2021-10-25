@@ -1,0 +1,10 @@
+numpy == 1.20.1
+pandas == 1.0.5
+torch == 1.7.0
+tqdm == 4.47.0
+sklearn == 0.0
+tabulate == 0.8.7
+torchvision == 0.8.1
+scipy == 1.5.0
+gpytorch == 1.4.0
+botorch == 0.4.0

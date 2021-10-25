@@ -1,0 +1,10 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+KernelFunctions = "ec8451be-7e33-11e9-00cf-bbf324bd1392"
+Memoization = "6fafb56a-5788-4b4e-91ca-c0cea6611c73"
+NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
+ReverseDiff = "37e2e3b7-166d-5795-8a7a-e32c996b4267"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
