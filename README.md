@@ -2,7 +2,7 @@
 
 This repository is the official implementation of the methods in the publication:
 
-L. Meronen, M. Trapp, and A. Solin (2021). **Periodic Activation Functions Induce Stationarity**. *To appear at Advances in Neural Information Processing Systems (NeurIPS)*.
+L. Meronen, M. Trapp, and A. Solin (2021). **Periodic Activation Functions Induce Stationarity**. *To appear at Advances in Neural Information Processing Systems (NeurIPS)*. [[arXiv]](https://arxiv.org/abs/2110.13572)
 
 <img src="src/fig/Illustration.png" width="400">
 
